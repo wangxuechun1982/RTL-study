@@ -1,1 +1,1 @@
-# RTL-study
+in Chinese tiger festival, learn git 
